@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Gamepad2, X, Maximize2, ExternalLink } from 'lucide-react';
 import gamesData from './games.json';
 
@@ -88,6 +88,9 @@ export default function App() {
                       alt={game.title}
                       className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                       referrerPolicy="no-referrer"
+                      onError={(e) => {
+                        e.target.src = `https://picsum.photos/seed/${game.title}/400/300`;
+                      }}
                     />
                   </div>
                   <div className="p-4">
@@ -175,6 +178,9 @@ export default function App() {
                           alt={game.title}
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                           referrerPolicy="no-referrer"
+                          onError={(e) => {
+                            e.target.src = `https://picsum.photos/seed/${game.title}/400/300`;
+                          }}
                         />
                       </div>
                       <p className="text-sm font-medium group-hover:text-emerald-500 transition-colors truncate">
