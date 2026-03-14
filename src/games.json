@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "description": "An addictive puzzle game inspired by Tetris.",
+    "thumbnail": "https://images.weserv.nl/?url=hextris.io/images/hextris-logo.png",
+    "iframeUrl": "https://hextris.io/"
+  },
+  {
+    "id": "3",
+    "title": "Pac-Man",
+    "description": "The classic arcade game where you eat dots and avoid ghosts.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/en/thumb/5/59/Pac-man.png/220px-Pac-man.png",
+    "iframeUrl": "https://macek.github.io/google_pacman/"
+  },
+  {
+    "id": "4",
+    "title": "Snake",
+    "description": "Classic snake game. Eat the food and grow longer.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/9/93/Snake_competition_with_AI.png/300px-Snake_competition_with_AI.png",
+    "iframeUrl": "https://patorjk.com/games/snake/"
+  },
+  {
+    "id": "5",
+    "title": "Tetris",
+    "description": "The world-famous puzzle game. Stack blocks to clear lines.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tetris_Graphisme.svg/1200px-Tetris_Graphisme.svg.png",
+    "iframeUrl": "https://chvin.github.io/react-tetris/"
+  },
+  {
+    "id": "6",
+    "title": "Minesweeper",
+    "description": "Classic minesweeper. Flag the mines and clear the board.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Minesweeper_Icon.svg/1200px-Minesweeper_Icon.svg.png",
+    "iframeUrl": "https://minesweeper.online/game/1"
+  },
+  {
+    "id": "7",
+    "title": "Chess",
+    "description": "The ultimate game of strategy. Play against the computer.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ChessSet.jpg/1200px-ChessSet.jpg",
+    "iframeUrl": "https://lichess.org/embed/game/new?bg=dark"
+  },
+  {
+    "id": "8",
+    "title": "Sudoku",
+    "description": "Fill the grid so that every row, column, and 3x3 box contains 1-9.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standard_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standard_layout.svg.png",
+    "iframeUrl": "https://sudoku.com/embed/"
+  },
+  {
+    "id": "9",
+    "title": "Breakout",
+    "description": "Destroy all the bricks with your ball and paddle.",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Breakout_Atari_2600.png/300px-Breakout_Atari_2600.png",
+    "iframeUrl": "https://patorjk.com/games/breakout/"
+  },
+  {
+    "id": "10",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and become the king!",
+    "thumbnail": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/en/thumb/0/07/Paper.io_2_logo.png/220px-Paper.io_2_logo.png",
+    "iframeUrl": "https://paper-io.com/"
+  }
+]
